@@ -13,3 +13,7 @@
 - X: optimized for large-scale, enterprise-class, in-memory applications and have the lowest price per GiB of RAM among Amazon EC2 instance types
 
 ## On-demand/Reserved/Dedicated/Spot
+- On-demand: traffic spikes, flexible, no commitment
+- Reserved: significant discount, stable, predictable traffic
+- Dedicated: licensing, meet requirements that may not support multitenant virtualisation
+- Spot: flexible start/end time, urgent computing needs
